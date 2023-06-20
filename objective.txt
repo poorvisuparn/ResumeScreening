@@ -1,0 +1,4 @@
+To develop a self-learning AI for automating the classification into compatible diverse teams of the shortlisted applicants based on their merits and demerits.
+
+An artificial intelligence based web application that uses natural language processing (NLP) to explore and analyze user bios from the shortlisted participants, and data clustering to match like-minded and diverse members into a compatible team, using python for collecting, cleaning and modeling data.
+
